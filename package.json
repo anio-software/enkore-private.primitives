@@ -6,7 +6,7 @@
   "license": "MIT",
   "exports": {
     ".": {
-      "types": "./dist/index.d.mts"
+      "types": "./dist/default/index.d.mts"
     }
   },
   "repository": {
