@@ -1,4 +1,4 @@
-export type RuntimeJSLogLevel = 
+export type RealmJSRuntimeLogLevel = 
 	"fatal"  |
 	"error"  |
 	"warn"   |
