@@ -1,6 +1,6 @@
-# @fourtune/primitives
+# @enkore/primitives
 
-Contains the primitive types used by the fourtune project.
+Contains the primitive types used by the enkore project.
 
 Note, this package only contains two types at the time:
 
