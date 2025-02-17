@@ -1,5 +1,5 @@
 export type NodeAPIMessage = {
-	severity: "debug" | "info" | "warn" | "error"
+	severity: "debug" | "info" | "warning" | "error"
 	id: string|undefined
 	message: string
 }
