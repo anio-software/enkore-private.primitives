@@ -14,6 +14,7 @@ export type NodePackageJSON = {
 	repository?: {
 		type: string
 		url: string
+		directory?: string
 	}
 
 	files?: string[]
