@@ -1,7 +1,3 @@
-export type JSRuntimeLogLevel = 
-	"fatal"  |
-	"error"  |
-	"warn"   |
-	"info"   |
-	"debug"  |
-	"trace"
+import type {JSRuntimeLogLevelTuple} from "./JSRuntimeLogLevelTuple.d.mts"
+
+export type JSRuntimeLogLevel = JSRuntimeLogLevelTuple[number]
