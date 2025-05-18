@@ -4,11 +4,6 @@
   "author": "Anio Software <info@anio.software>",
   "description": "Primitive types used in the enkore project.",
   "license": "MIT",
-  "exports": {
-    ".": {
-      "types": "./dist/default/index.d.mts"
-    }
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/enkore-org/primitives.git"
@@ -18,11 +13,5 @@
     "@fourtune/core": "^0.1101.0",
     "@fourtune/realm-js": "^0.31010.0",
     "fourtune": "^0.30000.1"
-  },
-  "scripts": {
-    "prepare": "./node_modules/.bin/fourtune ."
-  },
-  "files": [
-    "./dist/"
-  ]
+  }
 }
