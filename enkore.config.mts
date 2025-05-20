@@ -23,7 +23,6 @@ export const config: unknown = createConfig({
 			},
 
 			publish: [{
-				packageName: "@anio-software/enkore.primitives",
 				registry: "anioSoftware"
 			}]
 		})
