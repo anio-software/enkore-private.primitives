@@ -10,8 +10,8 @@
   },
   "type": "package",
   "devDependencies": {
-    "@anio-software/enkore": "^0.0.54",
-    "@anio-software/enkore.core": "^0.9.5",
-    "@anio-software/enkore.target-js-none": "^0.0.86-canary-b6679979-a81f6f05"
+    "@anio-software/enkore": "^0.0.56",
+    "@anio-software/enkore.core": "^0.10.0",
+    "@anio-software/enkore.target-js-none": "^0.0.91-canary-c92095bf-5d22f9d5"
   }
 }
