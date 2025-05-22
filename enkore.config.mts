@@ -1,12 +1,14 @@
 import {
 	createConfig,
-	createTargetJSNoneOptions
+	createTargetJSOptions
 } from "@anio-software/enkore/spec/factory"
 
 export const config: unknown = createConfig({
 	target: {
-		name: "js-none",
-		options: createTargetJSNoneOptions({
+		name: "js",
+		options: createTargetJSOptions({
+			environment: [],
+
 			registry: {
 				"anioSoftware": {
 					url: "https://npm-registry.anio.software",
