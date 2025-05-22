@@ -9,6 +9,9 @@
         "strict": true,
         "skipLibCheck": false,
         "types": [],
+        "lib": [
+            "esnext"
+        ],
         "target": "esnext",
         "module": "nodenext",
         "moduleResolution": "nodenext",
