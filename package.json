@@ -8,7 +8,7 @@
     "type": "git",
     "url": "git+https://github.com/enkore-org/primitives.git"
   },
-  "type": "package",
+  "type": "module",
   "devDependencies": {
     "@anio-software/enkore": "^0.0.68",
     "@anio-software/enkore.core": "^0.11.0",
