@@ -1,3 +1,10 @@
+type ExportsObject = Record<string, string | {
+	"types"?: string
+	"default"?: string
+	"import"?: string
+	"require"?: string
+}>
+
 export type NodePackageJSON = {
 	name: string
 	version: string
@@ -10,6 +17,8 @@ export type NodePackageJSON = {
 	dependencies?: Record<string, string>
 	devDependencies?: Record<string, string>
 	scripts?: Record<string, string>
+
+	exports?: ExportsObject
 
 	repository?: {
 		type: string
