@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/enkore-org/primitives.git"
+    "url": "git+https://github.com/anio-software/enkore-private.primitives.git"
   },
   "type": "module",
   "devDependencies": {
