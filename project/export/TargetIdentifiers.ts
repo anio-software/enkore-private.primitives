@@ -4,8 +4,8 @@ export type TargetIdentifiers = [
 	"js-web",
 	"js-node",
 	"js-hybrid",
-	"jsx-none",
+//	"jsx-none",
 	"jsx-web",
-	"jsx-node",
+//	"jsx-node",
 	"jsx-hybrid"
 ]
