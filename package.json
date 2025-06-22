@@ -13,6 +13,6 @@
   "devDependencies": {
     "@anio-software/enkore": "^0.0.90",
     "@anio-software/enkore.core": "^0.11.2",
-    "@anio-software/enkore.target-js-none": "^0.0.226-canary-9798c93e-8dcdfc80"
+    "@anio-software/enkore.target-js-none": "^0.0.228-canary-5f812817-1889ae7a"
   }
 }
