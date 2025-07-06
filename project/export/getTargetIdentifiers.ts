@@ -7,6 +7,7 @@ export function getTargetIdentifiers(): TargetIdentifiers {
 		"js-web",
 		"js-node",
 		"js-hybrid",
+		"js-hybrid-lite",
 //		"jsx-none",
 		"jsx-web",
 //		"jsx-node",
