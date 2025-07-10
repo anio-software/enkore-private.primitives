@@ -1,3 +1,4 @@
+// todo: rename to JSRuntimeLogLevels
 export type JSRuntimeLogLevelTuple = [
 	"fatal",
 	"error",
