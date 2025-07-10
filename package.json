@@ -2,7 +2,7 @@
   "private": true,
   "type": "module",
   "name": "@anio-software/enkore-private.primitives",
-  "version": "0.0.27",
+  "version": "0.0.28",
   "description": "Primitive types used in the enkore project.",
   "author": "Anio Software <info@anio.software>",
   "repository": {
